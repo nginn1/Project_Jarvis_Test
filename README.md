@@ -1,5 +1,5 @@
 # Project_Jarvis_Test
- Nathan and Hallie's personal ai assistant
+Hallie and Nathan's personal ai assistant
 
 
 ## How to install: 
