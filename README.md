@@ -4,5 +4,4 @@
 
 
 ## How to install: 
- 
  run "pip install requirements.txt"
