@@ -4,4 +4,4 @@
 
 
 ## How to install: 
- run "pip install requirements.txt"
+ run "pip install -r https://raw.githubusercontent.com/nignn1/Project_Jarvis_Test/main/requirements.txt"
