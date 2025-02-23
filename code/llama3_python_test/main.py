@@ -22,7 +22,7 @@ def listen():
         print("Listening...")
         recognizer.adjust_for_ambient_noise(source)
         try:
-            audio = recognizer.listen(source, timeout=5) # Capture voice input
+            audio = recognizer.listen(source, phrase_time_limit=20) # Capture voice input
             text = recognizer.recognize_google(audio) # Convert speech to text
             print(f"You said: {text}")
             return text
